@@ -26,7 +26,7 @@ const menuConfig = [
 	},
 	{
 		label: '測驗系統',
-		url: 'https://kobe9385-debug.github.io/20251103/'
+		url: 'https://kobe9385-debug.github.io/202501103/'
 	},
 	{
 		label: '淡江大學',
